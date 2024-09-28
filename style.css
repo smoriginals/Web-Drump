@@ -56,10 +56,6 @@
 	transition:all 0.2s;
 }
 
-.animateW{
-	font-size:1.6rem;
-}
-
 .subtitle{
 	height:1rem;
 	width:3.52rem;
@@ -67,8 +63,4 @@
 	line-height:1rem;
 	text-align:center;
 	transition:all 0.2s;
-}
-
-.animateS{
-	font-size:0.75rem;
 }
