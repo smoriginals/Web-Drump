@@ -1,1 +1,1 @@
-[OPEN IN BROWSER](https://smos-github.github.io/Web-Drump/)
+[OPEN IN BROWSER](https://smoriginals.github.io/Web-Drump/)
